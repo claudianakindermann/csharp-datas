@@ -1,0 +1,15 @@
+C:\dev\csharp-datas\HandleDates\bin\Debug\net6.0\HandleDates.exe
+C:\dev\csharp-datas\HandleDates\bin\Debug\net6.0\HandleDates.deps.json
+C:\dev\csharp-datas\HandleDates\bin\Debug\net6.0\HandleDates.runtimeconfig.json
+C:\dev\csharp-datas\HandleDates\bin\Debug\net6.0\HandleDates.dll
+C:\dev\csharp-datas\HandleDates\bin\Debug\net6.0\HandleDates.pdb
+C:\dev\csharp-datas\HandleDates\obj\Debug\net6.0\HandleDates.csproj.AssemblyReference.cache
+C:\dev\csharp-datas\HandleDates\obj\Debug\net6.0\HandleDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp-datas\HandleDates\obj\Debug\net6.0\HandleDates.AssemblyInfoInputs.cache
+C:\dev\csharp-datas\HandleDates\obj\Debug\net6.0\HandleDates.AssemblyInfo.cs
+C:\dev\csharp-datas\HandleDates\obj\Debug\net6.0\HandleDates.csproj.CoreCompileInputs.cache
+C:\dev\csharp-datas\HandleDates\obj\Debug\net6.0\HandleDates.dll
+C:\dev\csharp-datas\HandleDates\obj\Debug\net6.0\refint\HandleDates.dll
+C:\dev\csharp-datas\HandleDates\obj\Debug\net6.0\HandleDates.pdb
+C:\dev\csharp-datas\HandleDates\obj\Debug\net6.0\HandleDates.genruntimeconfig.cache
+C:\dev\csharp-datas\HandleDates\obj\Debug\net6.0\ref\HandleDates.dll
